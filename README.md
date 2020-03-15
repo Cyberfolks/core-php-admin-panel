@@ -12,7 +12,7 @@ A Simple Admin Pannel written in core PHP. It contains an implementation of gene
 ### Upload Image :
 simply add file field.
 
-if(isset($_FILES['image'])){
+'if(isset($_FILES['image'])){
 
   $img = $_FILES["image"]["tmp_name"]; // file tem name
 
@@ -77,7 +77,7 @@ else
 
   echo 'Insert failed: Image not uploaded '
   
-}
+}'
 
 
 
