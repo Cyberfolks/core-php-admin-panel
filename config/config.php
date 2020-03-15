@@ -37,7 +37,7 @@ require_once BASE_PATH . '/helpers/helpers.php';
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
-define('DB_NAME', 'corephpadmin');
+define('DB_NAME', 'new');
 
 /**
  *  Get instance of DB object
